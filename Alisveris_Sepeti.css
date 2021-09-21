@@ -1,0 +1,55 @@
+*{
+    font-size: 18px;
+    font-style: normal;
+}
+
+
+
+table thead tr {
+    background-color: black;
+    color: white;
+}
+table .ilkSira {
+    background-color: rgb(150, 148, 148);
+
+}
+table .ikinciSira {
+    background-color: rgb(219, 215, 215);
+    
+}
+
+table .ucuncuSira {
+    background-color: rgb(150, 148, 148);
+
+}
+table .dorduncuSira {
+    background-color: rgb(219, 215, 215);
+    
+}
+
+table .besinciSira {
+    background-color: rgb(150, 148, 148);
+
+}
+table .altinciSira {
+    background-color: rgb(219, 215, 215);
+    
+}
+.foot {
+    background-color: black;
+    color: white;
+}
+#tablo {
+    margin-top: 100px;
+    margin-left: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#buton{
+
+    margin-top: 30px;
+    margin-left: 260px;
+}
+.text-font {
+    text-align: right;
+}
